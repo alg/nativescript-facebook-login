@@ -1,0 +1,6 @@
+dependencies {
+  // facebook app events dependency
+  compile 'com.parse.bolts:bolts-android:1.4.0'
+  compile "com.facebook.android:facebook-android-sdk:4.22.0"
+}
+
